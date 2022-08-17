@@ -1,2 +1,4 @@
 Django~=4.1
 djangorestframework~=3.13.1
+pytest~=7.1.2
+pytest-django~=4.5.2
